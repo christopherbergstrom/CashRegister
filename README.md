@@ -6,4 +6,3 @@ too much money the program calculates the correct amount of change needed and th
 given to the customer. If the customer gives too litter money, the program calculates how much more money is need to pay for
 the item.<br>
 Reason developed: School project.
-
